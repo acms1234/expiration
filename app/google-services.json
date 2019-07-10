@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "680295373168",
+    "firebase_url": "https://expiration-95780.firebaseio.com",
+    "project_id": "expiration-95780",
+    "storage_bucket": "expiration-95780.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680295373168:android:628cd827f86e651d",
+        "android_client_info": {
+          "package_name": "com.example.keerthana.expiration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680295373168-m7i6mvnfs7m0lcm0869c5cpj4b93a1kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keerthana.expiration",
+            "certificate_hash": "33e1c9e86936c238853f5f432cc431f0352e5c89"
+          }
+        },
+        {
+          "client_id": "680295373168-3e2imju0tt55rpc6dartpgjikj4pte1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0rA2NOUZydrIaW96EU6kxZBJdkzcp6-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680295373168-3e2imju0tt55rpc6dartpgjikj4pte1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
